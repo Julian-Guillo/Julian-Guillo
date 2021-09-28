@@ -1,7 +1,7 @@
 - 👋 Hi there!, I’m @Julian-Guillo
 - 👀 I’m interested in Web Development, Statistics and Machine Learning, and how to combine them to solve problems and create value!
 - 💼 I’m currently working at WeValue AG, a Swiss company developing a web-based solution for automating company valuation.
-- 💻 I'm currently learning frontend technologies on my own, as well as data mining and model fitting through a master's degree in Biostats.
+- 💻 I'm currently learning frontend technologies on my own through courses and pet projects, as well as data mining and model fitting through a master's degree in Biostatistics at the University of Valencia, Spain.
 - 📫 You can reach me at julianleioa@gmail.com
 
 <!---
