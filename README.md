@@ -1,7 +1,8 @@
 - 👋 Hi there!, I’m @Julian-Guillo
-- 👀 I’m interested in Web Development, Statistics and Machine Learning, and how to combine them to solve problems and create value!
-- 💼 I’m currently working for WeValue AG, a Swiss company developing a web-based solution for automating company valuation.
-- 💻 I'm currently learning web dev technologies on my own through courses and pet projects, as well as data mining and model fitting through a master's degree in Biostatistics at the University of Valencia, Spain.
+- 👀 I’m interested in Statistics, Machine Learning, and Web Development, and how to combine them to solve problems and create value!
+- 💼 I’m currently working for WeValue AG, a Swiss company developing a web-based solution for automating company valuation, using R Shiny and JavaScript.
+- 💻 I enjoy learning and playing with new technologies on my own time through courses and pet projects.
+- 🎓 I studied a master's degree in Biostatistics at the University of Valencia, Spain, as well as a bachelor's degree in Biotechnology.
 - 📫 You can reach me at julianleioa@gmail.com
 
 <!---
